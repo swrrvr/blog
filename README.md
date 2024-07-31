@@ -6,4 +6,4 @@ Whether you met me IRL at Meetups, discovered me on social media (Youtube, X fka
 
 Enjoy and have a great read.
 
-\_If we met prior to you discovering this blog, then you likely know how to reach out to me. If for some reason you don't, be sure reach out to me via embedded links in my Github profile. Otherwise, I can be found as @swrrvr in most platforms online.
+If we met prior to you discovering this blog, then you likely know how to reach out to me. If for some reason you don't, be sure reach out to me via embedded links in my Github profile. Otherwise, I can be found as @swrrvr in most platforms online.
