@@ -1,1 +1,0 @@
-# Tech Youtubers are confusing 
